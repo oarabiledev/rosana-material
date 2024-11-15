@@ -18,5 +18,11 @@
     "material 3",
     "material design 3",
     "class-light"
-  ]
+  ],
+  "dependencies": {
+    "rosana": "^0.0.8"
+  },
+  "scripts": {
+    "dev": "vite"
+  }
 }
